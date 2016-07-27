@@ -8,8 +8,7 @@ Google::Protobuf::DescriptorPool.generated_pool.build do
     optional :email, :string, 1
   end
   add_message "UserResponse" do
-    optional :first_name, :string, 1
-    optional :last_name, :string, 2
+    optional :name, :string, 1
     optional :email, :string, 3
   end
 end
