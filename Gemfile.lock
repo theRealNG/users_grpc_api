@@ -47,7 +47,6 @@ GEM
       faraday (~> 0.9)
       jwt (~> 1.5)
       multi_json (~> 1.10)
-    sqlite3 (1.3.11)
     thread_safe (0.3.5)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
@@ -60,7 +59,6 @@ DEPENDENCIES
   grpc (~> 0.11)
   mysql2
   rake
-  sqlite3
 
 BUNDLED WITH
    1.12.5
